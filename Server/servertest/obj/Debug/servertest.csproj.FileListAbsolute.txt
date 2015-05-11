@@ -1,0 +1,108 @@
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\bin\Debug\servertest.exe.config
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\bin\Debug\servertest.exe
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\bin\Debug\servertest.pdb
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\obj\Debug\servertest.exe
+c:\users\samis_000\documents\visual studio 2012\Projects\servertest\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\servertest\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\servertest\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\servertest\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\servertest\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\servertest\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\servertest\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\servertest1\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\servertest1\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\servertest1\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\servertest1\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\servertest1\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\servertest1\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.6\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.7\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.7 - Copy\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server0.9\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\server1\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\server1\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server1\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server1\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\server1\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\server1\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\server1\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\server1\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\server1\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\server1\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\server1\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\server1\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.0\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.0\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.0\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.1\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\Chat Server 1.1\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\Chat Server 1.3 in development\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.3\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list development\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\bin\Debug\servertest.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\obj\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\obj\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\bin\Debug\servertest.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\bin\Debug\servertest.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\bin\Debug\servertest.exe.config
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\obj\Debug\servertest.exe
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\obj\Debug\servertest.pdb

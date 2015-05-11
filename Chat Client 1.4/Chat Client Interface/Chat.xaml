@@ -1,0 +1,18 @@
+﻿<Window x:Name="SecondWindow" x:Class="Chat_Client_Interface.Chat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat" Height="364" Width="637" Closed="Window_Closed_1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="333" VerticalAlignment="Top" Width="629" Background="#FF61DA1B">
+            <TextBox x:Name="chatbox" HorizontalAlignment="Left" Height="73" Margin="0,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="504" BorderBrush="Black" BorderThickness="1" Background="White" Text="Type Here..." TextChanged="TextBox_TextChanged" MouseEnter="chatbox_MouseEnter" MouseLeave="chatbox_MouseLeave" KeyDown="chatbox_KeyDown"/>
+            <TextBox x:Name="chatWindow" HorizontalAlignment="Left" Height="255" TextWrapping="Wrap" VerticalAlignment="Top" Width="504" Text="Connected!" TextChanged="TextBox_TextChanged" IsReadOnlyCaretVisible="True" Margin="0,-1,0,0"/>
+            <TextBox x:Name="eKey" HorizontalAlignment="Left" Height="23" Margin="509,300,0,0" TextWrapping="Wrap" Text="Key lengh must be 8" VerticalAlignment="Top" Width="120" TextChanged="eKey_TextChanged"/>
+            <CheckBox x:Name="encription" Content="Encripted" HorizontalAlignment="Left" Margin="530,263,-16,0" VerticalAlignment="Top" Width="115" Checked="encription_Checked"/>
+            <TextBlock x:Name="keyError" HorizontalAlignment="Left" Margin="530,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Height="21"/>
+            <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="255" Margin="508,-1,0,0" VerticalAlignment="Top" Width="121"/>
+        </Grid>
+    </Grid>
+</Window>

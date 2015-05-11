@@ -1,0 +1,29 @@
+﻿<Window x:Class="Chat_Client_Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="583" Width="291">
+        
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="552" VerticalAlignment="Top" Width="283" Background="#FF61DA1B">
+            <TextBox HorizontalAlignment="Left" Height="48" Margin="65,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152"/>
+            <TextBox x:Name="username" HorizontalAlignment="Left" Height="48" Margin="65,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152" TextChanged="username_TextChanged" FontSize="24" TextAlignment="Center"/>
+            <TextBlock HorizontalAlignment="Left" Margin="92,44,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Height="47" Width="138" Foreground="Black" FontSize="24"/>
+            <TextBlock HorizontalAlignment="Left" Margin="92,44,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Height="47" Width="138" Foreground="Black" FontSize="24"/>
+            <TextBlock HorizontalAlignment="Left" Margin="92,200,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Height="47" Width="138" Foreground="Black" FontSize="24"/>
+            <PasswordBox x:Name="password" HorizontalAlignment="Left" Margin="65,261,0,0" VerticalAlignment="Top" Width="152" Height="48" FontSize="24" KeyDown="password_KeyDown"/>
+            <CheckBox x:Name="remember" Content="Remember" HorizontalAlignment="Left" Margin="65,347,0,0" VerticalAlignment="Top" Height="50" Width="195" FontSize="24" Checked="remember_Checked"/>
+            <Button x:Name="register" Content="Register" HorizontalAlignment="Left" Margin="106,487,0,0" VerticalAlignment="Top" Width="62" Height="42" Click="register_Click"/>
+            <TextBlock x:Name="registerMsg" HorizontalAlignment="Left" Margin="81,466,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+
+        </Grid>
+        
+        <Button x:Name="Log_in" Content="Log In" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" Margin="23,411,0,0" Height="52" Cursor="Hand" Click="Log_in_Click"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" Margin="169,411,0,0" Height="52" IsCancel="True" Cursor="Hand" Click="Button_Click_1"/>
+
+    </Grid>
+
+    
+
+</Window>
+
+    

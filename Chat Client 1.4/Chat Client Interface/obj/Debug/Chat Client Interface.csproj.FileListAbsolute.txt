@@ -1,0 +1,330 @@
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.baml
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.g.cs
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\App.g.cs
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+c:\users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\zda\documents\visual studio 2013\Projects\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\samis_000\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client Interface - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.0\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\samis_000\Desktop\server,client\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\zda\Desktop\zdaChat v1.0\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\zda\Desktop\server,client\Chat Client 1.1\Chat Client 1.1\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.3 - Copy\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Niki Nikolov\Desktop\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\Megi\Desktop\server,client\zdaChat v1.0\Chat Server 1.4 list, acceptdecline request\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.baml
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\zda\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.baml
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatechat\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.baml
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+D:\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.baml
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache

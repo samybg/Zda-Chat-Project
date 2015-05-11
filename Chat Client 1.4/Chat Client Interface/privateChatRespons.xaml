@@ -1,0 +1,13 @@
+﻿<Window x:Class="Chat_Client_Interface.privateChatRespons"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="privateChatRespons" Height="300" Width="502.985">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="270" VerticalAlignment="Top" Width="495">
+            <TextBlock HorizontalAlignment="Left" Margin="25,75,-15,0" TextWrapping="Wrap" Text="Accept private chat request?" VerticalAlignment="Top" Height="86" Width="485" FontSize="36"/>
+            <Button x:Name="accept" Content="yes" HorizontalAlignment="Left" Margin="93,207,0,0" VerticalAlignment="Top" Width="76" Height="38" Click="accept_Click"/>
+            <Button x:Name="no" Content="decline" HorizontalAlignment="Left" Margin="329,207,0,0" VerticalAlignment="Top" Width="76" Height="38" Click="no_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>
