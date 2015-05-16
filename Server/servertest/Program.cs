@@ -31,15 +31,16 @@ namespace servertest
             Thread listKeeper = new Thread(User.ListKeeper);
             listKeeper.Start();
 
-            IPAddress[] LocalAdrr = null;                                                   // get
+            //IPAddress[] LocalAdrr = null;                                                   // get
             string strHostName = "";                                                        // information
             strHostName = Dns.GetHostName();                                                //for
-            IPHostEntry ipEntry = Dns.GetHostByName(strHostName);                           //listening 
-            LocalAdrr = ipEntry.AddressList;                                                //socket
-            Console.WriteLine("Sever listening on "+LocalAdrr[0].ToString()+":8080");       //Print IP and Port the server is listening on
+            IPHostEntry ipEntry = Dns.GetHostEntry(strHostName);                           //listening 
+            IPAddress localHost = IPAddress.Parse("127.0.0.1");
+            //LocalAdrr = ipEntry.AddressList;                                                //socket
+            Console.WriteLine("Sever listening on " + localHost.ToString() + ":8080");       //Print IP and Port the server is listening on
             Socket listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp); //creates the listnening socket
 
-            listener.Bind(new IPEndPoint(LocalAdrr[0], 8080));                              //Binds socket to ip and port
+            listener.Bind(new IPEndPoint(localHost, 8080));                              //Binds socket to ip and port
             listener.Listen(10);                                                            //sets timeout
             listener.BeginAccept(new AsyncCallback(OnConnectRequest), listener);            //socket begins listening
 			Console.WriteLine("");
@@ -47,7 +48,6 @@ namespace servertest
 			while (true)
 			{
 				string serverCommand = Console.ReadLine();
-
 				switch (serverCommand)
 				{
 					case "PrintOnlineUsers":

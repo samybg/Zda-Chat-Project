@@ -32,7 +32,7 @@ namespace Chat_Client_Interface
         {
 
             user = new TcpClient();
-            user.Connect("192.168.100.10", 8080);
+            user.Connect("127.0.0.1", 8080);
 
             NetworkStream userConnection = user.GetStream();
            

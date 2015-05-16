@@ -106,3 +106,9 @@ C:\Users\samis_000\Desktop\Chat Server 1.4 list, acceptdecline request,privatech
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\bin\Debug\servertest.exe.config
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\obj\Debug\servertest.exe
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\bin\Debug\servertest.exe.config
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\obj\Debug\servertest.exe
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\obj\Debug\servertest.pdb
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\bin\Debug\servertest.exe
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\bin\Debug\servertest.pdb
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Server\servertest\obj\Debug\servertest.csprojResolveAssemblyReference.cache

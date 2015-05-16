@@ -328,3 +328,24 @@ C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Ch
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
 C:\Users\samis_000\Desktop\Chat Server (workina, final)!!!!!!\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe.config
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.exe
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\bin\Debug\Chat Client Interface.pdb
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csprojResolveAssemblyReference.cache
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.baml
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.baml
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.baml
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.baml
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.baml
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\MainWindow.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatRespons.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\privateChatWindow.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Window1.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\App.g.cs
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface_MarkupCompile.cache
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.g.resources
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat_Client_Interface.Properties.Resources.resources
+C:\Users\samis_000\Documents\GitHub\Zda-Chat-Project\Chat Client 1.4\Chat Client Interface\obj\Debug\Chat Client Interface.csproj.GenerateResource.Cache
